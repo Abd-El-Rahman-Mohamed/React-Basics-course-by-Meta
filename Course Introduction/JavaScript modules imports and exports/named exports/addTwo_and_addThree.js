@@ -1,7 +1,7 @@
-function addTwo(a, b) {
+export function addTwo(a, b) {
   console.log(a + b);
 }
 
-function addThree(a, b, c) {
+export function addThree(a, b, c) {
   console.log(a + b + c);
 }
