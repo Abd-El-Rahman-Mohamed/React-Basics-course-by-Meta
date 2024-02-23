@@ -1,4 +1,4 @@
-import { addTwo, addThree } from './addTwo_and_addThree';
+import { addTwo, addThree } from './addTwo_and_addThree.js';
 
 // A test script
 addTwo(1, 2)
