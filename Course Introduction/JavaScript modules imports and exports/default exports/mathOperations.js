@@ -1,4 +1,4 @@
-import addTwo from './addTwo';
+import addTwo from './addTwo.js';
 
 // A test script
 addTwo(1, 2)
